@@ -14,7 +14,7 @@ The **Job status** column provides information about the execution status of you
 
 * **Pending** - Your analysis was placed in the queue to run. Depending on the length of the queue, your analysis could take from several minutes to several hours to start.  
 * **In Progress** - Your analysis has started and is running. Depending on your selection of cohort and variables, it could take from a half an hour to three hours to finish.  
-* **Failed** - Your analysis returned an error and could not run to completion. Please see **[Troubleshooting GWAS Errors](#troubleshooting-gwas-errors)** below.   
+* **Failed** - Your analysis returned an error and could not run to completion. Please see **[Troubleshooting GWAS Errors](#troubleshooting-gwas-errors)** below.  
 * **Completed** - Your analysis successfully completed, and you may download the results of the GWAS analysis from this menu.  
 
 The **Actions** column....
@@ -33,7 +33,7 @@ The **Actions** column....
 
 ## **Troubleshooting GWAS Errors**  
 
-In the Results Viewer App, we are beginning to add meaningful error messages. The messages will appear in the execution logs. See this list of selected errors and how to interpret and resolve them:   
+In the Results Viewer App, we are beginning to add meaningful error messages. The messages will appear in the execution logs. See this list of selected errors and how to interpret and resolve them:  
 
 ### **Failed run-null-model: Small cohort size or unbalanced cohort sizes**
 

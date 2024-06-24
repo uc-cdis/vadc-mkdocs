@@ -39,7 +39,7 @@ You can see how to get to these tools using the left navigation menu.
 
 **Before you define a cohort, you must have a concept set that establishes the inclusion criteria for the cohort.**  
 
-While you are creating a new concept set and defining a new cohort, you may wish to refer to the Data Dictionary periodically. For convenience, we have added a button above the ATLAS window that will launch the Data Dictionary app in a new tab to facilitate switching between ATLAS and the Data Dictionary.   
+While you are creating a new concept set and defining a new cohort, you may wish to refer to the Data Dictionary periodically. For convenience, we have added a button above the ATLAS window that will launch the Data Dictionary app in a new tab to facilitate switching between ATLAS and the Data Dictionary.  
 
 ![Data Dictionary button on ATLAS window](../img/atlas-dd.png)
 
